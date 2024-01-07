@@ -5,4 +5,6 @@ A fast autoclicker capable of bypassing CubeCraft anticheat
 Download and launch AutoClicker.exe
 
 # Features
-Auto Click  Ban Bypass  Using the left and right mouse buttons at the same time
+1. Auto Click
+2.  Ban Bypass
+3.  Using the left and right mouse buttons at the same time
